@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="downloading_click_custom_menu">
+        <item>Sil</item>
+        <item>Duraklat</item>
+    </string-array>
+    <string-array name="downloading_click_wait_menu">
+        <item>Sil</item>
+    </string-array>
+    <string-array name="downloading_click_pause_menu">
+        <item>Sil</item>
+        <item>Yeniden başlat</item>
+    </string-array>
+    <string-array name="downloading_click_failed_menu">
+        <item>Sil</item>
+        <item>Yüklemeyi yeniden dene</item>
+    </string-array>
+    <string-array name="uploadding_click_custom_menu">
+        <item>Sil</item>
+        <item>Duraklat</item>
+    </string-array>
+    <string-array name="uploadding_click_wait_menu">
+        <item>Sil</item>
+    </string-array>
+    <string-array name="uploadding_click_pause_menu">
+        <item>Sil</item>
+        <item>Yeniden başlat</item>
+    </string-array>
+    <string-array name="uploadding_click_failed_menu">
+        <item>Sil</item>
+        <item>Yüklemeyi yeniden dene</item>
+    </string-array>
+    <string-array name="downloaded_click_custom_menu">
+        <item>Sil</item>
+        <item>Yeniden adlandır</item>
+        <item>Gönder</item>
+    </string-array>
+    <string-array name="pcdir_dir_long_click">
+        <item>Yeniden adlandır</item>
+        <item>Sil</item>
+    </string-array>
+    <array name="pcdir_dir_long_click_system" />
+    <string-array name="pcdir_file_long_click">
+        <item>Aç</item>
+        <item>İndir</item>
+        <item>Taşı</item>
+        <item>Yeniden adlandır</item>
+        <item>Sil</item>
+        <item>@string/favorite</item>
+    </string-array>
+    <string-array name="open_file_no_type">
+        <item>Belgeler</item>
+        <item>Müzik</item>
+        <item>Video</item>
+        <item>Resimler</item>
+        <item>Diğer</item>
+    </string-array>
+    <string-array name="setting_clear_cache">
+        <item>Görüntüler</item>
+        <item>Geçici dosyalar</item>
+    </string-array>
+    <string-array name="netdisk_photos_long_click">
+        <item>Sil</item>
+    </string-array>
+    <string-array name="localdir_long_click">
+        <item>Aç</item>
+        <item>Kes</item>
+        <item>Kopyala</item>
+        <item>Yeniden adlandır</item>
+        <item>Sil</item>
+    </string-array>
+    <string-array name="localfile_long_click">
+        <item>Aç</item>
+        <item>Karşıya yükle</item>
+        <item>Taşı</item>
+        <item>Yeniden adlandır</item>
+        <item>Sil</item>
+    </string-array>
+    <string-array name="file_move_or_copy">
+        <item>Kes</item>
+        <item>Kopyala</item>
+    </string-array>
+    <string-array name="localfile_arraytype_menu">
+        <item>Tür</item>
+        <item>Ad</item>
+        <item>Boyut</item>
+        <item>Saat</item>
+    </string-array>
+    <string-array name="email_list">
+        <item>163.com</item>
+        <item>qq.com</item>
+        <item>126.com</item>
+        <item>sina.com.cn</item>
+        <item>hotmail.com</item>
+        <item>msn.com</item>
+        <item>gmail.com</item>
+        <item>sohu.com</item>
+        <item>yahoo.com.cn</item>
+    </string-array>
+    <string-array name="upload_lookat">
+        <item>Aç</item>
+        <item>Klasör aç</item>
+        <item>Yeniden adlandır</item>
+        <item>Sil</item>
+    </string-array>
+    <string-array name="dbank_delivery_file">
+        <item>本地附件</item>
+        <item>网盘附件</item>
+    </string-array>
+    <string-array name="dbank_move_choice">
+        <item>Diskim</item>
+        <item>爱同步文件夹</item>
+    </string-array>
+    <string-array name="multiple_select">
+        <item>Sil</item>
+        <item>İndir</item>
+    </string-array>
+</resources>

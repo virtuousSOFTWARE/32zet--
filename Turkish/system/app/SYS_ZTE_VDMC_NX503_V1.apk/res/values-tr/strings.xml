@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="dm_ok">Tamam</string>
+    <string name="dm_cancel">İptal</string>
+    <string name="dm_yes">Evet</string>
+    <string name="dm_no">Hayır</string>
+    <string name="ota_message">OTAP Mesajı</string>
+    <string name="ota_start">Yeni ayarlar alındı, yüklensin mi?</string>
+    <string name="ota_succ">Yükleme başarılı!</string>
+    <string name="ota_fail">Yükleme hatalı!</string>
+    <string name="dm_pin_code">PIN Kodu</string>
+</resources>
